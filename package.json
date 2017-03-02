@@ -1,0 +1,14 @@
+{
+  "name": "beam-stream-tool",
+  "version": "1.0.0",
+  "description": "Streaming Tools for Beam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James \"Outcast\" Jones",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
